@@ -23,3 +23,5 @@ Project 1 from Herbert's UltimateFlaskCourse
 #fix form to reference routes
 
 #test form along the way
+
+#grab values from the form and insert them in the /add route
